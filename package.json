@@ -1,0 +1,20 @@
+{
+  "name": "lifeeathealthydevrepo",
+  "version": "1.0.0",
+  "description": "Life Eat Healthy Dev Env",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh342/lifeeathealthydevrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh342/lifeeathealthydevrepo/issues"
+  },
+  "homepage": "https://github.com/harsh342/lifeeathealthydevrepo#readme"
+}
